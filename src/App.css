@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Verdana', sans-serif;
   background: #f5f5f5;
   scroll-behavior: smooth;
 }
@@ -19,6 +19,7 @@ body {
 
 .navbar h1 {
   margin: 0;
+  font-size: 4 rem;
 }
 
 .navbar ul {
@@ -58,7 +59,8 @@ body {
 }
 
 .section {
-  padding: 3rem 2rem;
+  padding: 4rem 3rem;
+  font-size: 22px;
 }
 
 .card-grid {
@@ -87,7 +89,7 @@ body {
 
 .news-list {
   list-style: none;
-  padding: 0;
+  padding: 1;
 }
 
 .news-list li {

@@ -99,9 +99,9 @@ function App() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>📍 Gram Gopthala, Dimmar | 📞 9411353753 / 9568129892</p>
-        <p>🌐 Website: [Your Website]</p>
-        <h3>© PS Paper Tech Solutions</h3>
+        <strong><p>📍 Gram Gopthala, Dimmar | 📞 9411353753 / 9568129892</p>
+        <p>  GVS Since 2019 </p>
+        © PS Paper Tech Solution</strong>
       </footer>
     </div>
   );
