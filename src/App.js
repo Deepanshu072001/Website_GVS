@@ -32,8 +32,8 @@ function App() {
           <img src="/images/image-1.jpg" alt="Hero 1" />
           <img src="/images/image-2.jpg" alt="Hero 2" />
         </div>
-        <h2>Welcome to GVS – Gopthala Vikas Samiti</h2>
-        <p>“Aavo Chalo Gaon Ki Or” – Let’s return to our roots and build villages that thrive.</p>
+        <h1>Welcome to GVS – Gopthala Vikas Samiti</h1> 
+        <p> <strong>“Aavo Chalo Gaon Ki Or” – Let’s return to our roots and build villages that thrive. </strong> </p>
       </section>
 
       {/* About Us */}
